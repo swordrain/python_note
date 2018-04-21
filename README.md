@@ -1,4 +1,4 @@
-![https://img11.360buyimg.com/n1/jfs/t18112/283/105345917/276856/cfc529d5/5a5cd735Naa769cef.jpg](cover)
+![cover](https://img11.360buyimg.com/n1/jfs/t18112/283/105345917/276856/cfc529d5/5a5cd735Naa769cef.jpg)
 
 # 类型
 
